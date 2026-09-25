@@ -1,1 +1,0 @@
-# Solar_PV_Data_analysis

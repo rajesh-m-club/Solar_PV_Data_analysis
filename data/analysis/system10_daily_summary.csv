@@ -1,2 +1,0 @@
-date,records,peak_poa_w_m2,peak_dc_power_w,peak_ac_power_w,mean_poa_w_m2,mean_dc_power_w,mean_ac_power_w,dc_energy_kwh,ac_energy_kwh,ac_dc_energy_ratio
-2022-01-01,1440,978.34,0.10173,0.25529,105.404516,-1.2367106041666667,-1.704208423611111,-0.029681054499999998,-0.040901002166666665,1.3780171511988115
